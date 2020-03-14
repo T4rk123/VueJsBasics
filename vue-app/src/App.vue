@@ -14,9 +14,9 @@ export default {
   data (){
     return {
       todos: [
-        {id: 1, title: 'Установить VS Code', completed: false},
-        {id: 2, title: 'Сделать fork https://github.com/grishinrv/VueJsBasics', completed: false},
-        {id: 3, title: 'Разработать просто приложение-список', completed: false}
+        {id: 1, title: 'Установить VS Code', completed: false, imagesourse:"https://bipbap.ru/wp-content/uploads/2017/08/2.jpg"},
+        {id: 2, title: 'Сделать fork https://github.com/grishinrv/VueJsBasics', completed: false,imagesourse:"https://klike.net/uploads/posts/2018-06/1528720172_1.jpg"},
+        {id: 3, title: 'Разработать просто приложение-список', completed: false,imagesourse:"https://www.cruzo.net/user/images/k/ecc3ecf42c75db1ffce5d06cbe95b1e6_644.jpg"}
       ]
     }
   },
